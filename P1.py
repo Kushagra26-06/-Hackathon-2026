@@ -1,0 +1,1 @@
+print('Hackathon 2026 - Problem 1')
