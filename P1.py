@@ -1,1 +1,8 @@
-print('Hackathon 2026 - Problem 1')
+print ("Harsh playz")
+
+n = 1 + 1
+print (n)
+
+
+
+print ('Change detected')
